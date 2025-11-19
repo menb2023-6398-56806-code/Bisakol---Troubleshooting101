@@ -1,12 +1,12 @@
 # Bisakol---Troubleshooting101
 Bernaldez, Briagas V.,  Navera, Paclita, Pormatelo
 
-**Images**
+**Images**\
 Scenario21.php.png - The Scenario\
 Error.png - The Error\
 Explanation.png - The Explanation
 
-**PHP**
+**PHP**\
 index.php - The solution\
 what we change.php - Short Explanation(not working)
 <br><br>
